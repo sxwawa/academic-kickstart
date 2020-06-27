@@ -69,6 +69,6 @@ subtitle = ""
 
 We are now doing a cross-network embedding project which aims to apply domain adaptation and graph neural networks (deep network embedding) to learn network-invariant feature representations to address the cross-network prediction tasks.
 
-1. Our paper "Adversarial Deep Network Embedding for Cross-Network Node Classification" has been accepted by AAAI 2020. https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf
-2. Our paper "Network Together: Node Classification via Cross-Network Deep Network Embedding" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. https://ieeexplore.ieee.org/document/9108549 Codes and datasets are available at https://github.com/shenxiaocam/CDNE
+1. Our paper "Adversarial Deep Network Embedding for Cross-Network Node Classification" has been accepted by AAAI 2020. [Paper] https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf
+2. Our paper "Network Together: Node Classification via Cross-Network Deep Network Embedding" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. [Paper] https://ieeexplore.ieee.org/document/9108549 [Code] https://github.com/shenxiaocam/CDNE
  
