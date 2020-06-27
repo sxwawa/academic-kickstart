@@ -67,8 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
 
-AAAI
+
+1. X. Shen, Q. Dai, F.-l. Chung, W. Lu and K.-S. Choi, “Adversarial Deep Network Embedding for Cross-network Node Classification,” in Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2020, pp. 2991-2999.
+2. X. Shen, Q. Dai, S. Mao, F. Chung and K. Choi, "Network Together: Node Classification via Cross-Network Deep Network Embedding," in IEEE Transactions on Neural Networks and Learning Systems, early access, Jun. 4, 2020, doi: 10.1109/TNNLS.2020.2995483.
+3. 
