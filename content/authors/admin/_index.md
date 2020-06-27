@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. SHEN Xiao
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Hong Kong Polytechnic University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning and data mining, specialized in graph representation learning, deep learning, transfer learning, and data mining in complex networks.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Graph neural networks
+- Network embedding
+- Cross-network embedding
+- Network transfer learning
+
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: The Hong Kong Polytechnic University
+    year: 2019
+  - course: MPhil in Advanced Computer Science
+    institution: University of Cambridge
+    year: 2013
+  - course: BSc in e-Commerce Engineering
+    institution: Queen Mary University of London & Beijing University of Posts and Telecommunications
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
