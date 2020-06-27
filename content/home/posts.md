@@ -66,3 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+We are now doing a cross-network embedding project which aims to apply domain adaptation and graph neural networks to learn network-invariant feature representations to address the cross-network prediction tasks.
+
+1. Our paper "Adversarial Deep Network Embedding for Cross-Network Node Classification" has been accepted by AAAI 2020. https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf
+2. Our paper "Network Together: Node Classification via Cross-Network Deep Network Embedding" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. https://ieeexplore.ieee.org/document/9108549
+ 
