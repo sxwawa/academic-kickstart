@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Dr. SHEN Xiao
+Email: shenxiaocam@163.com
 
 # Username (this should match the folder name)
 authors:
@@ -11,6 +12,7 @@ superuser: true
 
 # Role/position
 role: Postdoctoral fellow
+
 
 # Organizations/Affiliations
 organizations:
@@ -45,9 +47,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:shenxiaocam@163.com".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=5BurqVgAAAAJ&hl=zh-CN
