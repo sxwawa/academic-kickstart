@@ -28,13 +28,6 @@ date_format = "Jan 2006"
 
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = ""
-  date_start = "2021-03-01"
-  date_end = ""
-  description = """."""
+
 
 +++
