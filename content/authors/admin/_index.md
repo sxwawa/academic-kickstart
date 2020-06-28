@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Dr. SHEN Xiao
-Email: shenxiaocam@163.com
+title: Dr. SHEN Xiao shenxiaocam@163.com
 
 # Username (this should match the folder name)
 authors:
