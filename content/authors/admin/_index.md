@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral fellow Email: shenxiaocam@163.com
+role:  Email: shenxiaocam@163.com  
+Postdoctoral fellow
 
 
 # Organizations/Affiliations
