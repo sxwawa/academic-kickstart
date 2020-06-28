@@ -75,4 +75,6 @@ user_groups:
 
 Xiao SHEN is a Postdoctoral fellow at The Hong Kong Polytechnic University. Her research interests include machine learning and data mining, specialized in graph representation learning, deep learning, transfer learning, and data mining in complex networks.
 
-Xiao SHEN received the Ph.D. degree from the Department of Computing, The Hong Kong Polytechnic University in 2019, the M.Phil. degree from the Department of Computer Science and Technology, the University of Cambridge in 2013, and the B.Sc. degree from the Queen Mary University of London and Beijing University of Posts and Telecommunications in 2012. Xiao SHEN received the Hong Kong Ph.D. Fellowship and the Excellent Academic Performance Scholarship awarded by Queen Mary University of London.
+Xiao SHEN received the Ph.D. degree from the Department of Computing, The Hong Kong Polytechnic University in 2019, the M.Phil. degree from the Department of Computer Science and Technology, the University of Cambridge in 2013, and the B.Sc. degree from the Queen Mary University of London and Beijing University of Posts and Telecommunications in 2012. 
+
+Xiao SHEN received the Hong Kong Ph.D. Fellowship and the Excellent Academic Performance Scholarship awarded by Queen Mary University of London.
