@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. SHEN Xiao shenxiaocam@163.com
+title: Dr. SHEN Xiao
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral fellow
+role: Postdoctoral fellow Email: shenxiaocam@163.com
 
 
 # Organizations/Affiliations
