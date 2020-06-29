@@ -15,7 +15,8 @@ role:  Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
+- name: The Hong Kong Polytechnic University 
+  Email: shenxiaocam@163.com
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
