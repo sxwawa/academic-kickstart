@@ -21,7 +21,8 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-1. The Hong Kong PhD Fellowship, awarded by Research Grants Council (RGC) of Hong Kong, 2015-2019.
-2. PolyU Scholarship for HK PhD Fellowship students, awarded by The Hong Kong Polytechnic University, 2015-2019.
-3. COMP Scholarship for HK PhD Fellowship students, awarded by Department of Computing, The Hong Kong Polytechnic University, 2015-2019.
-4. The Excellent Academic Performance Scholarship, awarded by Queen Mary University of London, 2011-2012.
+1. Postdoctoral Hub, The Technology Talent Scheme, awarded by Innovation and Technology Commission, The Government of HKSAR, 2019-2021.
+2. The Hong Kong PhD Fellowship, awarded by Research Grants Council (RGC) of Hong Kong, 2015-2019.
+3. PolyU Scholarship for HK PhD Fellowship students, awarded by The Hong Kong Polytechnic University, 2015-2019.
+4. COMP Scholarship for HK PhD Fellowship students, awarded by Department of Computing, The Hong Kong Polytechnic University, 2015-2019.
+5. The Excellent Academic Performance Scholarship, awarded by Queen Mary University of London, 2011-2012.
