@@ -21,5 +21,7 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-1. The Hong Kong PhD Fellowship awarded by Research Grants Council (RGC) of Hong Kong, in 2015.
-2. The Excellent Academic Performance Scholarship, awarded by Queen Mary University of London, in 2011.
+1. The Hong Kong PhD Fellowship, awarded by Research Grants Council (RGC) of Hong Kong, 2015-2019.
+2. PolyU Scholarship for HK PhD Fellowship students, awarded by The Hong Kong Polytechnic University, 2015-2019.
+3. COMP Scholarship for HK PhD Fellowship students, awarded by Department of Computing, The Hong Kong Polytechnic University, 2015-2019.
+4. The Excellent Academic Performance Scholarship, awarded by Queen Mary University of London, 2011-2012.
