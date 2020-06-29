@@ -16,8 +16,7 @@ role:  Postdoctoral fellow
 # Organizations/Affiliations
 organizations:
 - name: The Hong Kong Polytechnic University 
-  Email: shenxiaocam@163.com
-  url: ""
+  url: "shenxiaocam@163.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning and data mining, specialized in graph representation learning, deep learning, transfer learning, and data mining in complex networks.
