@@ -10,13 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role:  Postdoctoral fellow
+role: shenxiaocam@163.com Postdoctoral fellow
 
 
 # Organizations/Affiliations
 organizations:
 - name: The Hong Kong Polytechnic University 
-  shenxiaocam@163.com
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
