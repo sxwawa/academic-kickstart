@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Popular Topics"
+title = "Honors & Awards"
 subtitle = ""
 
 [content]
@@ -20,3 +20,6 @@ subtitle = ""
   font_size_min = 0.7
   font_size_max = 2.0
 +++
+
+1. The Hong Kong PhD Fellowship awarded by Research Grants Council (RGC) of Hong Kong, in 2015.
+2. The Excellent Academic Performance Scholarship, awarded by Queen Mary University of London, in 2011.
