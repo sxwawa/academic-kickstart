@@ -72,6 +72,9 @@ We are now doing a cross-network embedding project which aims to apply domain ad
 1. Our paper "Adversarial Deep Network Embedding for Cross-Network Node Classification" has been accepted by AAAI 2020. 
 
    [Paper] https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShenX.1703.pdf
+   
+   [Code] https://github.com/shenxiaocam/ACDNE
+   
 2. Our paper "Network Together: Node Classification via Cross-Network Deep Network Embedding" has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
    
    [Paper] https://ieeexplore.ieee.org/document/9108549 
