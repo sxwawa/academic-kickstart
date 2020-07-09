@@ -72,4 +72,4 @@ Xiao SHEN is now a Postdoctoral fellow at The Hong Kong Polytechnic University. 
 
 Xiao SHEN received the Ph.D. degree from Department of Computing, The Hong Kong Polytechnic University in 2019, the M.Phil. degree from Department of Computer Science and Technology, University of Cambridge in 2013, and the B.Sc. degree (with First-Class Honours) from Queen Mary University of London and Beijing University of Posts and Telecommunications in 2012. 
 
-Xiao SHEN received the Hong Kong PhD Fellowship, PolyU Scholarship for HK PhD Fellowship students, COMP Scholarship for HK PhD Fellowship students, and the Excellent Academic Performance Scholarship.
+Xiao SHEN received the Hong Kong PhD Fellowship, PolyU Scholarship for HK PhD Fellowship students, COMP Scholarship for HK PhD Fellowship students, and the Queen Mary Excellent Academic Performance Scholarship.
