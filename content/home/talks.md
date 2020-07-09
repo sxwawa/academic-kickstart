@@ -68,3 +68,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+An introduction about our recent cross-network embedding work: the CDNE and ACDNE models. https://mp.weixin.qq.com/s/g8cI-Z_vq6-ArkaRILAf4A
