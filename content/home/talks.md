@@ -72,6 +72,4 @@ subtitle = ""
 
 An introduction about our recent cross-network embedding work: the CDNE and ACDNE models. 
 
-https://mp.weixin.qq.com/s/g8cI-Z_vq6-ArkaRILAf4A
-
 https://mp.weixin.qq.com/s/LUnwwoeU7ZRNyOgGfCc7Pg
