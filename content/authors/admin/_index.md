@@ -24,7 +24,7 @@ bio: My research interests include machine learning and data mining, specialized
 interests:
 - Graph neural networks
 - Deep network embedding
-- Cross-network embedding
+- Cross-network node classification
 - Network transfer learning
 
 
