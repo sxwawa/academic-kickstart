@@ -22,33 +22,36 @@ subtitle = ""
 +++
 
 Program Commettee (Conference)
+===
 
-AAAI Conference on Artificial Intelligence (AAAI), 2021
+•	AAAI Conference on Artificial Intelligence (AAAI), 2021
 
-International Joint Conference on Artificial Intelligence (IJCAI), 2021
+•	International Joint Conference on Artificial Intelligence (IJCAI), 2021
 
 External Reviewer (Conference)
+===
 
-AAAI Conference on Artificial Intelligence (AAAI), 2017, 2018
+•	AAAI Conference on Artificial Intelligence (AAAI), 2017, 2018
 
-ACM International Conference on Information and Knowledge Management (CIKM), 2019
+•	ACM International Conference on Information and Knowledge Management (CIKM), 2019
 
-IEEE International Conference on Data Mining series (ICDM), 2016, 2017, 2018, 2020
+•	IEEE International Conference on Data Mining series (ICDM), 2016, 2017, 2018, 2020
 
-International Joint Conference on Artificial Intelligence (IJCAI), 2019
+•	International Joint Conference on Artificial Intelligence (IJCAI), 2019
 
-SIAM International Conference on Data Mining (SDM), 2018, 2020
+•	SIAM International Conference on Data Mining (SDM), 2018, 2020
 
 Journal Reviewer
+===
 
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+•	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
-ACM Transactions on Knowledge Discovery from Data (TKDD) 
+•	ACM Transactions on Knowledge Discovery from Data (TKDD) 
 
-Future Generation Computer Systems (FGCS)
+•	Future Generation Computer Systems (FGCS)
 
-IEEE Transactions on Emerging Topics in Computational Intelligence
+•	IEEE Transactions on Emerging Topics in Computational Intelligence
 
-Complexity
+•	Complexity
 
-IEEE Access
+•	IEEE Access
