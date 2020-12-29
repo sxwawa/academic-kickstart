@@ -8,50 +8,21 @@ weight = 120  # Order that this section will appear.
 title = "Academic Services"
 subtitle = ""
 
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+[content]
+  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
+  taxonomy = "tags"
+  
+  # Choose how many tags you would like to display (0 = all tags)
+  count = 20
 
-# Slide height (optional).
-# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
-
-# Slides.
-# Duplicate an `[[item]]` block to add more slides.
-[[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-
-[[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+[design]
+  # Minimum and maximum font sizes (1.0 = 100%).
+  font_size_min = 0.7
+  font_size_max = 2.0
 +++
+
+1. Postdoctoral Hub, The Technology Talent Scheme, awarded by Innovation and Technology Commission, The Government of HKSAR, 2019-2021.
+2. The Hong Kong PhD Fellowship, awarded by Research Grants Council (RGC) of Hong Kong, 2015-2018.
+3. PolyU Scholarship for HK PhD Fellowship students, awarded by The Hong Kong Polytechnic University, 2015-2018.
+4. COMP Scholarship for HK PhD Fellowship students, awarded by Department of Computing, The Hong Kong Polytechnic University, 2015-2018.
+5. The Excellent Academic Performance Scholarship, awarded by Queen Mary University of London, 2011-2012.
