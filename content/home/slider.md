@@ -21,8 +21,21 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-1. Postdoctoral Hub, The Technology Talent Scheme, awarded by Innovation and Technology Commission, The Government of HKSAR, 2019-2021.
-2. The Hong Kong PhD Fellowship, awarded by Research Grants Council (RGC) of Hong Kong, 2015-2018.
-3. PolyU Scholarship for HK PhD Fellowship students, awarded by The Hong Kong Polytechnic University, 2015-2018.
-4. COMP Scholarship for HK PhD Fellowship students, awarded by Department of Computing, The Hong Kong Polytechnic University, 2015-2018.
-5. The Excellent Academic Performance Scholarship, awarded by Queen Mary University of London, 2011-2012.
+Program Commettee (Conference)
+AAAI Conference on Artificial Intelligence (AAAI), 2021
+International Joint Conference on Artificial Intelligence (IJCAI), 2021
+
+External Reviewer (Conference)
+AAAI Conference on Artificial Intelligence (AAAI), 2017, 2018
+ACM International Conference on Information and Knowledge Management (CIKM), 2019
+IEEE International Conference on Data Mining series (ICDM), 2016, 2017, 2018, 2020
+International Joint Conference on Artificial Intelligence (IJCAI), 2019
+SIAM International Conference on Data Mining (SDM), 2018, 2020
+
+Journal Reviewer
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+ACM Transactions on Knowledge Discovery from Data (TKDD) 
+Future Generation Computer Systems (FGCS)
+IEEE Transactions on Emerging Topics in Computational Intelligence
+Complexity
+IEEE Access
