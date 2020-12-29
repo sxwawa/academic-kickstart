@@ -21,7 +21,7 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-Program Commettee (Conference)
+Program Committee (Conference)
 ==
 
 •	AAAI Conference on Artificial Intelligence (AAAI), 2021
