@@ -52,6 +52,6 @@ Journal Reviewer
 
 •	IEEE Transactions on Emerging Topics in Computational Intelligence
 
-•	Complexity
+
 
 
