@@ -70,7 +70,7 @@ subtitle = ""
 
 
 1. Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi. Adversarial Deep Network Embedding for Cross-Network Node Classification. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pages 2991-2999, 2020. https://mx.aaai.org/ojs/index.php/AAAI/article/view/5692
-2. Xiao Shen, Quanyu Dai, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi. Network Together: Node Classification via Cross-Network Deep Network Embedding.  IEEE Transactions on Neural Networks and Learning Systems, early access, Jun. 4, 2020, doi: 10.1109/TNNLS.2020.2995483. https://ieeexplore.ieee.org/document/9108549
+2. Xiao Shen, Quanyu Dai, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, "Network Together: Node Classification via Cross network Deep Network Embedding," IEEE Trans. Neural. Netw. Learn. Syst., vol. 32, no. 5, pp. 1935-1948, 2021.
 3. Quanyu Dai, Xiao Shen, Xiao-Ming Wu, and Dan Wang. Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution.  arXiv preprint arXiv:1909.01541. 2019. https://arxiv.org/abs/1909.01541
 4. Xiao Shen, and Fu-Lai Chung. Deep network embedding for graph representation learning in signed networks.  IEEE Transactions on Cybernetics. 50 (4):1556-1568. 2020.  https://ieeexplore.ieee.org/document/8486671
 5. Xiao Shen, Sitong Mao, and Fu-lai Chung. Cross-network learning with fuzzy labels for seed selection and graph sparsification in influence maximization. IEEE Transactions on Fuzzy Systems. 28 (9):2195-2208. 2020. https://ieeexplore.ieee.org/abstract/document/8772055
