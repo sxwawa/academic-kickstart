@@ -70,7 +70,7 @@ subtitle = ""
 
 
 1. Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi. Adversarial Deep Network Embedding for Cross-Network Node Classification. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pages 2991-2999, 2020. https://mx.aaai.org/ojs/index.php/AAAI/article/view/5692
-2. Xiao Shen, Quanyu Dai, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, "Network Together: Node Classification via Cross network Deep Network Embedding," IEEE Trans. Neural. Netw. Learn. Syst., vol. 32, no. 5, pp. 1935-1948, 2021.
+2. Xiao Shen, Quanyu Dai, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, "Network Together: Node Classification via Cross network Deep Network Embedding," IEEE Trans. Neural. Netw. Learn. Syst., vol. 32, no. 5, pp. 1935-1948, 2021. https://ieeexplore.ieee.org/document/9108549
 3. Peter Ka-Fung Chiu, Xiao Shen, Guanjin Wang, Cho-Lik Ho, Chi-Ho Leung, Chi-Fai Ng, Kup-Sze Choi, and Jeremy Yuen-Chun Teoh, Enhancement of prostate cancer diagnosis by machine learning techniques: an algorithm development and validation study, Prostate Cancer and Prostatic Diseases, 2021. https://doi.org/10.1038/s41391-021-00429-x. https://rdcu.be/coIC4
 4. Xiao Shen, Guanjin Wang, Rick Yiu-Cho Kwan, Kup-Sze Choi, Using dual neural network architecture to detect the risk of dementia with community health data: Algorithm development and validation study, JMIR Medical Informatics, 2020.09. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7490674/
 5. Quanyu Dai, Xiao Shen, Zimu Zheng, Liang Zhang, Qiang Li, and Dan Wang, Adversarial Training Regularization for Negative Sampling Based Network Embedding, Information Sciences, 2021. https://www.sciencedirect.com/science/article/abs/pii/S0020025521007088
