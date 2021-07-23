@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. SHEN Xiao
+title: Dr. Xiao SHEN
 
 # Username (this should match the folder name)
 authors:
