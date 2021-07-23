@@ -21,6 +21,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  """
   title = "Associate Professor"
   company = "Hainan University"
   company_url = ""
@@ -30,7 +31,7 @@ date_format = "Jan 2006"
   description = """
   
   """
-  
+[[experience]] 
   title = "Postdoctoral fellow"
   company = "The Hong Kong Polytechnic University"
   company_url = ""
