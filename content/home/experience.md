@@ -17,13 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+
 [[experience]]
+  title = "Associate Professor"
+  company = "Hainan University"
+  company_url = ""
+  location = "China"
+  date_start = "2021-04-07"
+  date_end = "
+  description = """
+  
   title = "Postdoctoral fellow"
   company = "The Hong Kong Polytechnic University"
   company_url = ""
   location = "Hong Kong"
   date_start = "2019-03-01"
-  date_end = ""
+  date_end = "2021-02-28"
   description = """
 
   """
