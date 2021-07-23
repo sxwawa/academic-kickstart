@@ -25,7 +25,7 @@ interests:
 - Graph neural networks
 - Deep network embedding
 - Cross-network classification
-- Cross-network representation learning
+- Cross-network embedding
 - Network transfer learning
 
 
@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Xiao SHEN is now a Postdoctoral fellow at The Hong Kong Polytechnic University. Her research interests include machine learning and data mining, specialized in graph representation learning, deep learning, transfer learning, and data mining in complex networks.
+Xiao SHEN is now an Associate Professor at Hainan University. She was a Postdoctoral fellow at The Hong Kong Polytechnic University. Her research interests include machine learning and data mining, specialized in graph representation learning, deep learning, transfer learning, and data mining in complex networks.
 
 Xiao SHEN received the Ph.D. degree from Department of Computing, The Hong Kong Polytechnic University in 2019, the M.Phil. degree from Department of Computer Science and Technology, University of Cambridge in 2013, and the B.Sc. degree (with First-Class Honours) from Queen Mary University of London and Beijing University of Posts and Telecommunications in 2012. 
 
