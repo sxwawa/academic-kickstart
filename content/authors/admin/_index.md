@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I am looking for self-motivated Master and Ph.D students. Please send me your CV to shenxiaocam@163.com.
+Hello
 
 Xiao SHEN is now an Associate Professor at Hainan University. She was a Postdoctoral fellow at The Hong Kong Polytechnic University. Her research interests include machine learning and data mining, specialized in graph representation learning, deep learning, transfer learning, and data mining in complex networks.
 
