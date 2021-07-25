@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-10 
+
 
 1. Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi. Adversarial Deep Network Embedding for Cross-Network Node Classification. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pages 2991-2999, 2020. https://mx.aaai.org/ojs/index.php/AAAI/article/view/5692
 2. Xiao Shen, Quanyu Dai, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, "Network Together: Node Classification via Cross network Deep Network Embedding," IEEE Trans. Neural. Netw. Learn. Syst., vol. 32, no. 5, pp. 1935-1948, 2021. https://ieeexplore.ieee.org/document/9108549
