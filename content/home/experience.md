@@ -20,17 +20,7 @@ date_format = "Jan 2006"
 
 
 
-[[experience]]
-  """
-  title = "Associate Professor"
-  company = "Hainan University"
-  company_url = ""
-  location = "China"
-  date_start = "2021-04-07"
-  date_end = "
-  description = """
-  
-  """
+
 [[experience]] 
   title = "Postdoctoral fellow"
   company = "The Hong Kong Polytechnic University"
