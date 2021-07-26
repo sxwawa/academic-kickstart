@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Xiao SHEN
+title: Dr. Xiao Shen
 
 # Username (this should match the folder name)
 authors:
@@ -74,5 +74,7 @@ Xiao SHEN is now an Associate Professor at Hainan University. She was a Postdoct
 Xiao SHEN received the Ph.D. degree from Department of Computing, The Hong Kong Polytechnic University in 2019, the M.Phil. degree from Department of Computer Science and Technology, University of Cambridge in 2013, and the B.Sc. degree (with First-Class Honours) from Queen Mary University of London and Beijing University of Posts and Telecommunications in 2012. 
 
 Xiao SHEN received the Hong Kong PhD Fellowship, PolyU Scholarship for HK PhD Fellowship students, COMP Scholarship for HK PhD Fellowship students, and the Queen Mary Excellent Academic Performance Scholarship.
+
+I am looking for self-motivated master and Ph.D students. Interested students please send me your CV to shenxiaocam@163.com. 
 
 
