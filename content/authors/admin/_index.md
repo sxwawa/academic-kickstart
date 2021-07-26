@@ -77,8 +77,8 @@ Xiao SHEN received the Hong Kong PhD Fellowship, PolyU Scholarship for HK PhD Fe
 
 I am looking for self-motivated master and Ph.D students. Interested students please send me your CV to shenxiaocam@163.com.
 
-Red colored text
+<font color=Blue>Red colored text</font>
 
-{style="color: red"}
+
 
 
