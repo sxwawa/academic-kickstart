@@ -75,6 +75,6 @@ Xiao SHEN received the Ph.D. degree from Department of Computing, The Hong Kong 
 
 Xiao SHEN received the Hong Kong PhD Fellowship, PolyU Scholarship for HK PhD Fellowship students, COMP Scholarship for HK PhD Fellowship students, and the Queen Mary Excellent Academic Performance Scholarship.
 
-{{< hl >}}I am looking for self-motivated master and Ph.D students. Interested students please send me your CV to shenxiaocam@163.com. {{< /hl >}}
+I am looking for self-motivated master and Ph.D students. Interested students please send me your CV to shenxiaocam@163.com.{style="color: red"}
 
 
