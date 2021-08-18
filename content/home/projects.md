@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+"The Research on Key Technologies of Cross-network Representation Learning based on the Integration of Graph Neural Network and Domain Adaptation", National Natural Science Foundation of China (No. 62102124), 2022/01-2024/12, PI.  
