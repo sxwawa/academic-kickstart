@@ -25,10 +25,10 @@ Program Chair (Conference)
 ====
 •	The 7th IEEE International Conference on Data Science and Systems (IEEE DSS-2021) 
 
-Program Committee (Conference)
+Program Committee Member (Conference)
 ====
 
-•	AAAI Conference on Artificial Intelligence (AAAI), 2021
+•	AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022
 
 •	International Joint Conference on Artificial Intelligence (IJCAI), 2021
 
@@ -56,6 +56,7 @@ Journal Reviewer
 
 •	IEEE Transactions on Emerging Topics in Computational Intelligence
 
+•	Information Fusion
 
 
 
